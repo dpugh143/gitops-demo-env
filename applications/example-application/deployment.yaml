@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: example-application
-        image: docker.io/wisesphinx143/gitops-demo:v1.0.2
+        image: docker.io/wisesphinx143/gitops-demo:v2.0.0
         ports:
         - containerPort: 8080
 ---
